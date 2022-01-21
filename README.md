@@ -38,6 +38,7 @@ Planning – Here will determine project goals and establish a high-level plan f
 
 MVC
 
+![Screenshot](mvc.png)
 
 MVVC
 
