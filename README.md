@@ -42,6 +42,8 @@ MVC
 
 MVVC
 
+![Screenshot](mvvc.png)
+
 **5. What is Data Flow Diagram?**
 
   It illustrates how data is processed by a system in terms of inputs and outputs. Its focus in on the flow of information that where data comes from, where it goes and how it gets stored
